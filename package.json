@@ -1,6 +1,6 @@
 {
   "name": "@apimediaru/laravel-echo",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Laravel Echo for Nuxt.js",
   "repository": "apimediaru/laravel-echo",
   "license": "MIT",
@@ -10,7 +10,7 @@
   "main": "lib/module.js",
   "scripts": {
     "lint": "eslint --ext .js,.vue .",
-    "release": "yarn test && standard-version && git push --follow-tags && npm publish",
+    "release": "yarn test && standard-version && npm publish",
     "test": "yarn lint && jest"
   },
   "dependencies": {
