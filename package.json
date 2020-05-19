@@ -1,12 +1,9 @@
 {
-  "name": "@nuxtjs/laravel-echo",
+  "name": "@apimediaru/laravel-echo",
   "version": "1.1.0",
   "description": "Laravel Echo for Nuxt.js",
-  "repository": "nuxt-community/laravel-echo",
+  "repository": "apimediaru/laravel-echo",
   "license": "MIT",
-  "contributors": [
-    "Ricardo Gobbo de Souza <ricardogobbosouza@yahoo.com.br>"
-  ],
   "files": [
     "lib"
   ],

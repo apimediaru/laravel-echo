@@ -7,6 +7,6 @@ module.exports = {
     { handler: require('../../../') }
   ],
   echo: {
-    plugins: [ '~/plugins/echo.js' ]
+    plugins: ['~/plugins/echo.js']
   }
 }
