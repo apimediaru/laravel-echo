@@ -1,6 +1,6 @@
 {
   "name": "@apimediaru/laravel-echo",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Laravel Echo for Nuxt.js",
   "repository": "apimediaru/laravel-echo",
   "license": "MIT",
